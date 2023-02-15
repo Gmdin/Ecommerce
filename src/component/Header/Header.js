@@ -14,16 +14,16 @@ const Header=()=>{
         <SearchIcon className='heade__searchIcon'/>
       </div>
       <div className="header__nav">
-      <div className="header__item">
-        <span className="nav__itemLineOne">First</span>
-        <span className="nav__itemLineTwo">Second</span>
+      <div className="nav__item">
+        <span className="nav__itemLineOne">Hello Gust</span>
+        <span className="nav__itemLineTwo">Sign Up</span>
       </div>
-      <div className="header__item">
-      <span className="nav__itemLineOne">First</span>
-        <span className="nav__itemLineTwo">Second</span>
+      <div className="nav__item">
+      <span className="nav__itemLineOne">Your</span>
+        <span className="nav__itemLineTwo">Shop</span>
       </div>
-      <div className="header__item">
-      <ShoppingBasketIcon className='itemBasket'/>
+      <div className="nav__itemBasket">
+      <ShoppingBasketIcon />
       <span className="nav__itemLineTwo nav__basketCount">0</span>
       </div>
       </div>

@@ -2,7 +2,7 @@
     height: 60px; 
     display: flex;
     align-items: center;
-    background-color: #131921;
+    background-color: #2075e3;
     position: sticky;
     top: 0;
     z-index: 100;
@@ -11,7 +11,7 @@
 .header__logo {
     display: flex;
     align-items: center;
-    color: #ff9f00;
+    color: #d6cec2;
     margin: 0 25px;
 }
 
